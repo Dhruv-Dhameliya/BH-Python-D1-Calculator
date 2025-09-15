@@ -20,5 +20,3 @@ It runs in a loop until the user chooses to exit.
 - **Error handling** → Prevents division or modulus by zero.  
 - **User-friendly prompts** → Menu-driven interface for easy navigation.  
 - **Input validation** → Checks for non-numeric input.  
-
----
